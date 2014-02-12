@@ -1,0 +1,22 @@
+{
+  "name": "FreeDiagrams",
+  "version": "0.0.0",
+  "description": "Free Diagrams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GaryChamberlain/FreeDiagrams.git"
+  },
+  "author": "Gary Chamberlain",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/GaryChamberlain/FreeDiagrams/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.3.2"
+  }
+}
